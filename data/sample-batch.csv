@@ -1,0 +1,6 @@
+transaction_id,amount,hour,account_age_days,transactions_24h,foreign,distance_km
+UPLOAD-001,42.5,13,780,2,0,12
+UPLOAD-002,950,2,12,18,1,380
+UPLOAD-003,125,10,400,3,0,35
+UPLOAD-004,600,3,25,11,1,240
+UPLOAD-005,18,17,1200,1,0,4
